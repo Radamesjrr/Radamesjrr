@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+sou+o+Radam%C3%A9s!;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+sou+o+Radam%C3%A9s!;Desenvolvedor+Front+End;Bem-vindo+ao+meu+perfil!">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+sou+o+Radam%C3%A9s!;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </h1>
