@@ -8,8 +8,8 @@
 
 Sou um profissional que busco me estabelecer na área da tecnologia, especificamente na área da programação. 
 
-- 🔭 Atualmente trabalho como militar, pretendendo migrar para a área
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente trabalho como militar
+- 🌱 Desenvolvedor Front End | Manutenção de hardware | Técnico em Redes de Computadores
 - 💜 Aluno DevClub
 
 
